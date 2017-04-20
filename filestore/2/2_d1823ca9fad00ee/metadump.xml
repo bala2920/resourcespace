@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" resourcespace:resourceid="22" resourcespace:extension="" resourcespace:resourcetype="text" resourcespace:resourcetypeid="5" >
+
+<dc:title rsfieldtitle="Title" rsembeddedequiv="Title" rsfieldref="8" rsfieldtype="0">filecategory</dc:title>
+
+<dc:description rsfieldtitle="Caption" rsembeddedequiv="Caption-Abstract,Description,ImageDescription" rsfieldref="18" rsfieldtype="1">sample</dc:description>
+
+<resourcespace:field rsfieldtitle="Keywords - Subject" rsembeddedequiv="" rsfieldref="73" rsfieldtype="2">Child,Animal,Baby,Boy,Family,Product</resourcespace:field>
+
+<resourcespace:field rsfieldtitle="Keywords - Emotion" rsembeddedequiv="" rsfieldref="75" rsfieldtype="2">Happy,Thoughtful</resourcespace:field>
+
+<resourcespace:field rsfieldtitle="Keywords - Event" rsembeddedequiv="" rsfieldref="74" rsfieldtype="2">Festival</resourcespace:field>
+
+<resourcespace:field rsfieldtitle="Keywords - Other" rsembeddedequiv="Keywords,Subject" rsfieldref="1" rsfieldtype="1">mixed file store</resourcespace:field>
+
+<resourcespace:field rsfieldtitle="Named person(s)" rsembeddedequiv="People" rsfieldref="" rsfieldtype="0"></resourcespace:field>
+
+<resourcespace:field rsfieldtitle="Country" rsembeddedequiv="category,country" rsfieldref="3" rsfieldtype="9">India</resourcespace:field>
+
+<dc:date rsfieldtitle="Date" rsembeddedequiv="DateTimeOriginal" rsfieldref="12" rsfieldtype="4">2017-04-18 10:03</dc:date>
+
+<resourcespace:field rsfieldtitle="Original filename" rsembeddedequiv="" rsfieldref="" rsfieldtype="0"></resourcespace:field>
+
+<resourcespace:field rsfieldtitle="Extracted text" rsembeddedequiv="" rsfieldref="" rsfieldtype="5"></resourcespace:field>
+
+<resourcespace:field rsfieldtitle="Credit" rsembeddedequiv="Source,Creator,Credit,By-line" rsfieldref="" rsfieldtype="0"></resourcespace:field>
+
+<resourcespace:field rsfieldtitle="Notes" rsembeddedequiv="JobID" rsfieldref="" rsfieldtype="1"></resourcespace:field>
+
+<resourcespace:field rsfieldtitle="Name" rsembeddedequiv="" rsfieldref="84" rsfieldtype="3">company1</resourcespace:field>
+
+</record>
