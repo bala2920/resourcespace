@@ -18,7 +18,7 @@ $baseurl = 'http://localhost/resourcespace';
 
 # Email settings
 $email_notify = 'bala2920@gmail.com';
-$email_from = 'balakrishnan.raghupathy@borngroup.com';
+$email_from = '';
 # Secure keys
 $spider_password = 'e247f8ad90b87235b9ba2ecfc97e257673a6cda13a57d66044f6584109e44e87';
 $scramble_key = '4fb16a64adba4bd865d3ef108af4bf146892baa69fcdf41d067d53852d55abbc';
